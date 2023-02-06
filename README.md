@@ -1,7 +1,6 @@
 Welcome to Syed Farhan Naveed's GitHub Account
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Java%2CPython%2CJavaScript-yellowgreen" />
-  <img src="https://img.shields.io/badge/Web%20Frameworks-Angular%2CReact%2CVue.js-blue" />
   <img src="https://img.shields.io/badge/Database-MySQL%2CMongoDB-red" />
 </p>
 Hi there! I'm Syed Farhan Naveed, a data scientist with a passion for building innovative and intuitive models/solutions to complex problems/datsets.
@@ -13,7 +12,7 @@ Experience with databases such as MySQL and MongoDB
 Good understanding of programming tools and processes
 Comfortable working in an Agile environment
 
-Projects
+## Projects
 Here are a few of my notable projects that demonstrate my skills and experience:
 
 Task Manager: A python program to maintain tasks and users with statistics regarding completion of each task assigned to all/each users/user.
