@@ -1,3 +1,7 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://www.google.com/search?client=opera-gx&q=bright+stars+sky+images+for+github+page&sourceid=opera&ie=UTF-8&oe=UTF-8#imgrc=JO8BfZqpnkkgcM)"> 
+</picture>
+
 ## Welcome to Syed Farhan Naveed's GitHub Account
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Python%2CMySQL-yellowgreen" />
