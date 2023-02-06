@@ -28,4 +28,4 @@ CLustering and PCA analysis on the Iris and UsArrests datasets.
 
 
 Contact:
-You can see my CV at: [Syed Farhan Naveed](https://www.dropbox.com/scl/fi/0lmmhs091k9zr8pfpei4e/Syed_Farhan_Naveed_CV.docx?dl=0&rlkey=0y6o7eldani12y2rmhfg641bh) and For anything work related feel free to reach out to me at sfarhandid@gmail.com I'd love to hear from you
+You can see my CV at: [Syed Farhan Naveed](https://www.dropbox.com/scl/fi/0lmmhs091k9zr8pfpei4e/Syed_Farhan_Naveed_CV.docx?dl=0&rlkey=0y6o7eldani12y2rmhfg641bh) and For anything work related feel free to reach out to me at sfarhandid@gmail.com I'd love to hear from you!
