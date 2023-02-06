@@ -8,7 +8,7 @@ Hi there! I'm Syed Farhan Naveed, a data scientist with a passion for building i
 
 ### **Skills**
 
-Strong experience in Python, Jupyter Notebook, and Tableau for problem solving and data analysis of large datasets.
+Strong experience in Python, Jupyter Notebook, and Tableau for problem solving and data analysis of large datasets/n
 Proficient in Pandas and Numpy and SQL.
 Experience with databases such as MySQL and MongoDB.
 Good understanding of programming tools and processes.
