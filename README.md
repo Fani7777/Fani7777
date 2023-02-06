@@ -1,16 +1,25 @@
-### Hi there 👋
+Welcome to Syed Farhan Naveed's GitHub Account
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Java%2CPython%2CJavaScript-yellowgreen" />
+  <img src="https://img.shields.io/badge/Web%20Frameworks-Angular%2CReact%2CVue.js-blue" />
+  <img src="https://img.shields.io/badge/Database-MySQL%2CMongoDB-red" />
+</p>
+Hi there! I'm Syed Farhan Naveed, a data scientist with a passion for building innovative and intuitive models/solutions to complex problems/datsets.
 
-<!--
-**Fani7777/Fani7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Strong experience in Python, Jypter Notebook, and Tableau.
+Proficient in Pandas and Numpys and SQL
+Experience with databases such as MySQL and MongoDB
+Good understanding of programming tools and processes
+Comfortable working in an Agile environment
 
-Here are some ideas to get you started:
+Projects
+Here are a few of my notable projects that demonstrate my skills and experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Task Manager: A python program to maintain tasks and users with statistics regarding completion of each task assigned to all/each users/user.
+Detailed Machine learning models with visualizations on the various datasets including Titanic and Iris Datasets.
+CLustering and PCA analysis on the Iris and UsArrests datasets.
+
+
+Contact:
+For anything work related feel free to reach out to me at sfarhandid@gmail.com I'd love to hear from you!
