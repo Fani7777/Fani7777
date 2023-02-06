@@ -17,7 +17,8 @@ Projects
 Here are a few of my notable projects that demonstrate my skills and experience:
 
 Task Manager: A python program to maintain tasks and users with statistics regarding completion of each task assigned to all/each users/user.
-Detailed Machine learning models with visualizations on the various datasets including Titanic and Iris Datasets.
+
+Models: Detailed Machine learning models with visualizations on the various datasets including Titanic and Iris Datasets.
 CLustering and PCA analysis on the Iris and UsArrests datasets.
 
 
