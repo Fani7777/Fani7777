@@ -1,6 +1,6 @@
 Welcome to Syed Farhan Naveed's GitHub Account
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-Java%2CPython%2CJavaScript-yellowgreen" />
+  <img src="https://img.shields.io/badge/Languages-Python%2C-yellowgreen" />
   <img src="https://img.shields.io/badge/Database-MySQL%2CMongoDB-red" />
 </p>
 Hi there! I'm Syed Farhan Naveed, a data scientist with a passion for building innovative and intuitive models/solutions to complex problems/datsets.
