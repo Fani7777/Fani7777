@@ -1,6 +1,6 @@
 ## Welcome to Syed Farhan Naveed's GitHub Account
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-Python%2CMySQL%2C-yellowgreen" />
+  <img src="https://img.shields.io/badge/Languages-Python%2CMySQL%-yellowgreen" />
   <img src="https://img.shields.io/badge/Database-Pandas%2CMongoDB-red" />
   <img src="https://img.shields.io/badge/Softwares-VsCode%2CGit%2CJupyter notebook%2CTableau-blue" />
 </p>
